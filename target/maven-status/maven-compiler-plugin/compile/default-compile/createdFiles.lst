@@ -1,0 +1,6 @@
+com\praktikum\testing\otomation\pages\HomePage.class
+com\praktikum\testing\otomation\pages\LoginPage.class
+com\praktikum\testing\otomation\pages\BasePage.class
+com\praktikum\testing\otomation\pages\CheckoutPage.class
+com\praktikum\testing\otomation\pages\ProductPage.class
+com\praktikum\testing\otomation\pages\CartPage.class

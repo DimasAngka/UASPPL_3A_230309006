@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-27T13:49:37 WIB" name="UASPPL_3A_230309006" finished-at="2025-12-27T13:50:31 WIB" duration-ms="54508">
+    <groups>
+    </groups>
+    <test started-at="2025-12-27T13:49:37 WIB" name="Demoblaze_Test_Cases" finished-at="2025-12-27T13:50:31 WIB" duration-ms="54508">
+      <class name="com.praktikum.testing.otomation.tests.DemoblazeTestCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:49:37 WIB" name="setUp" finished-at="2025-12-27T13:49:38 WIB" duration-ms="1744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginSuccess()[pri:1, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:49:38 WIB" name="testLoginSuccess" finished-at="2025-12-27T13:49:42 WIB" duration-ms="3613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginSuccess -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:49:42 WIB" name="tearDown" finished-at="2025-12-27T13:49:42 WIB" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:49:42 WIB" name="setUp" finished-at="2025-12-27T13:49:43 WIB" duration-ms="698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddToCart()[pri:2, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:49:43 WIB" name="testAddToCart" finished-at="2025-12-27T13:49:48 WIB" duration-ms="4763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:49:48 WIB" name="tearDown" finished-at="2025-12-27T13:49:48 WIB" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:49:48 WIB" name="setUp" finished-at="2025-12-27T13:49:49 WIB" duration-ms="1064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginAfterAddingProduct()[pri:3, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:49:49 WIB" name="testLoginAfterAddingProduct" finished-at="2025-12-27T13:49:58 WIB" duration-ms="8731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginAfterAddingProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:49:58 WIB" name="tearDown" finished-at="2025-12-27T13:49:58 WIB" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:49:58 WIB" name="setUp" finished-at="2025-12-27T13:49:59 WIB" duration-ms="742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCheckoutValidData()[pri:4, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:49:59 WIB" name="testCheckoutValidData" finished-at="2025-12-27T13:50:07 WIB" duration-ms="8007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckoutValidData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:50:07 WIB" name="tearDown" finished-at="2025-12-27T13:50:07 WIB" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:50:07 WIB" name="setUp" finished-at="2025-12-27T13:50:07 WIB" duration-ms="737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginWithWrongPassword()[pri:5, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:50:07 WIB" name="testLoginWithWrongPassword" finished-at="2025-12-27T13:50:09 WIB" duration-ms="1930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithWrongPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:50:09 WIB" name="tearDown" finished-at="2025-12-27T13:50:09 WIB" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:50:09 WIB" name="setUp" finished-at="2025-12-27T13:50:10 WIB" duration-ms="674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginWithEmptyUsername()[pri:6, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:50:10 WIB" name="testLoginWithEmptyUsername" finished-at="2025-12-27T13:50:12 WIB" duration-ms="1475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithEmptyUsername -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:50:12 WIB" name="tearDown" finished-at="2025-12-27T13:50:12 WIB" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:50:12 WIB" name="setUp" finished-at="2025-12-27T13:50:12 WIB" duration-ms="663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDuplicateRegistration()[pri:7, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:50:12 WIB" name="testDuplicateRegistration" finished-at="2025-12-27T13:50:15 WIB" duration-ms="2314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDuplicateRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:50:15 WIB" name="tearDown" finished-at="2025-12-27T13:50:15 WIB" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:50:15 WIB" name="setUp" finished-at="2025-12-27T13:50:16 WIB" duration-ms="632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCheckoutWithoutLogin()[pri:8, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:50:16 WIB" name="testCheckoutWithoutLogin" finished-at="2025-12-27T13:50:19 WIB" duration-ms="3658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckoutWithoutLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:50:19 WIB" name="tearDown" finished-at="2025-12-27T13:50:19 WIB" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:50:19 WIB" name="setUp" finished-at="2025-12-27T13:50:20 WIB" duration-ms="729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCheckoutWithEmptyName()[pri:9, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:50:20 WIB" name="testCheckoutWithEmptyName" finished-at="2025-12-27T13:50:28 WIB" duration-ms="7923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckoutWithEmptyName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:50:28 WIB" name="tearDown" finished-at="2025-12-27T13:50:28 WIB" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:50:28 WIB" name="setUp" finished-at="2025-12-27T13:50:29 WIB" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPlaceOrderWithEmptyCart()[pri:10, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:50:29 WIB" name="testPlaceOrderWithEmptyCart" finished-at="2025-12-27T13:50:31 WIB" duration-ms="2055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlaceOrderWithEmptyCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.praktikum.testing.otomation.tests.DemoblazeTestCases@4fb0f2b9]" started-at="2025-12-27T13:50:31 WIB" name="tearDown" finished-at="2025-12-27T13:50:31 WIB" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.praktikum.testing.otomation.tests.DemoblazeTestCases -->
+    </test> <!-- Demoblaze_Test_Cases -->
+  </suite> <!-- UASPPL_3A_230309006 -->
+</testng-results>
